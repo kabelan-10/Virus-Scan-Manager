@@ -1,6 +1,5 @@
 # Virus-Scan-Manager
 
-SKYHIGH
 Introduction:
 This Antivirus Scanner is a basic tool that can be used to scan a directory for potential virus infections. It works by searching for specific virus signatures within files in the given directory. If a file contains a virus signature, the program will prompt the user to delete the infected file.
 
